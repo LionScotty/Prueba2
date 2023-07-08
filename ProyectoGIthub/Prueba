@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Mi página sencilla</title>
+</head>
+<body>
+  <h1>Bienvenido a mi página sencilla</h1>
+  
+  <p>Esta es una página HTML básica.</p>
+  
+  <ul>
+    <li>Elemento de lista 1</li>
+    <li>Elemento de lista 2</li>
+    <li>Elemento de lista 3</li>
+  </ul>
+  
+  <p>Puedes agregar más contenido aquí, como imágenes y enlaces.</p>
+  
+  <img src="imagen.jpg" alt="Mi imagen">
+  
+  <a href="https://www.ejemplo.com">Enlace a Ejemplo.com</a>
+</body>
+</html>
+
